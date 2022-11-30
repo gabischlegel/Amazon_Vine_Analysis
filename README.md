@@ -7,8 +7,10 @@ I used PySpark to perform the ETL process to extract the dataset, transform the 
 ## Results
 There were 43 Vine reviews and 7750 non-Vine reviews. 
 <img width="332" alt="image" src="https://user-images.githubusercontent.com/110864175/204690106-60e78ed3-ffea-4e33-8a8b-4e4c09319d19.png">
+
 There were 14 five-star Vine reviews and 4027 five-star non-Vine reviews.
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/110864175/204690290-0bb75006-bb31-4e29-84f8-b7855a4ebed9.png">
+
 32.56% of the Vine reviews were five stars while 51.96% of non-Vine reviews were five stars. 
 <img width="458" alt="image" src="https://user-images.githubusercontent.com/110864175/204690342-9d72430c-c5f1-4ccc-8b44-1dd49839298e.png">
 
